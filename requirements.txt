@@ -1,0 +1,4 @@
+xlsxwriter
+nltk
+yandex.translate
+
